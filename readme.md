@@ -1,0 +1,1 @@
+Lecture for Universitas Pendidikan Indonesia, November 2025

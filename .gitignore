@@ -1,0 +1,16 @@
+*.pptx
+*.vba
+__pycache__
+
+
+ref
+lec1/mnist
+lec1/notebook
+lec1/README.md
+
+
+lec2
+
+dataset
+assets
+lec1/neural_networks_fundamentals_bare.ipynb
