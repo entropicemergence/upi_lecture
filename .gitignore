@@ -15,3 +15,14 @@ dataset
 assets
 lec1/neural_networks_fundamentals_bare.ipynb
 lec2/stories
+lec2/notes
+lec2/tokenizer_basic.py
+lec2/train.ipynb
+lec2/transformer_tiny.py
+lec2/building_llm_live_coding.ipynb
+lec2/transformer_training_from_scratch.ipynb
+lec2/building_llm_live_coding copy.ipynb
+
+
+lec1/mnist.ipynb
+lec1/mnistb.ipynb
