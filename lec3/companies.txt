@@ -1,0 +1,701 @@
+Price (30 days)
+favorite icon	1	
+NVIDIA logo
+NVIDIA
+NVDA
+	$4.550 T	$186.60	
+1.88%	
+USA
+favorite icon	2	
+Apple logo
+Apple
+AAPL
+	$3.969 T	$267.46	
+1.82%	
+USA
+favorite icon	3	
+Microsoft logo
+Microsoft
+MSFT
+	$3.772 T	$507.49	
+0.53%	
+USA
+favorite icon	4	
+Alphabet (Google) logo
+Alphabet (Google)
+GOOG
+	$3.447 T	$285.60	
+3.11%	
+USA
+favorite icon	5	
+Amazon logo
+Amazon
+AMZN
+	$2.489 T	$232.87	
+0.78%	
+USA
+favorite icon	6	
+Saudi Aramco logo
+Saudi Aramco
+2222.SR
+	$1.645 T	$6.81	
+1.24%	
+S. Arabia
+favorite icon	7	
+Broadcom logo
+Broadcom
+AVGO
+	$1.618 T	$342.65	
+0.06%	
+USA
+favorite icon	8	
+Meta Platforms (Facebook) logo
+Meta Platforms (Facebook)
+META
+	$1.517 T	$602.01	
+1.22%	
+USA
+favorite icon	9	
+TSMC logo
+TSMC
+TSM
+	$1.462 T	$282.01	
+0.99%	
+Taiwan
+favorite icon	10	
+Tesla logo
+Tesla
+TSLA
+	$1.359 T	$408.92	
+1.13%	
+USA
+favorite icon	11	
+Berkshire Hathaway logo
+Berkshire Hathaway
+BRK-B
+	$1.085 T	$503.26	
+1.12%	
+USA
+favorite icon	12	
+Eli Lilly logo
+Eli Lilly
+LLY
+	$915.90 B	$1,022	
+0.35%	
+USA
+favorite icon	13	
+JPMorgan Chase logo
+JPMorgan Chase
+JPM
+	$825.94 B	$300.37	
+1.07%	
+USA
+favorite icon	14	
+Walmart logo
+Walmart
+WMT
+	$821.58 B	$102.95	
+0.46%	
+USA
+favorite icon	15	
+Tencent logo
+Tencent
+TCEHY
+	$767.60 B	$80.93	
+1.15%	
+China
+favorite icon	16	
+Visa logo
+Visa
+V
+	$632.26 B	$325.75	
+1.29%	
+USA
+favorite icon	17	
+Oracle logo
+Oracle
+ORCL
+	$626.77 B	$219.86	
+1.34%	
+USA
+favorite icon	18	
+Exxon Mobil logo
+Exxon Mobil
+XOM
+	$501.69 B	$117.68	
+1.35%	
+USA
+favorite icon	19	
+Mastercard logo
+Mastercard
+MA
+	$485.31 B	$536.85	
+1.63%	
+USA
+favorite icon	220	
+Johnson & Johnson logo
+Johnson & Johnson
+JNJ
+	$480.84 B	$199.58	
+1.86%	
+USA
+favorite icon	121	
+Netflix logo
+Netflix
+NFLX
+	$467.33 B	$110.29	
+0.83%	
+USA
+favorite icon	122	
+Samsung logo
+Samsung
+005930.KS
+	$445.90 B	$66.69	
+2.78%	
+S. Korea
+favorite icon	23	
+AbbVie logo
+AbbVie
+ABBV
+	$413.56 B	$234.00	
+0.71%	
+USA
+favorite icon	24	
+Palantir logo
+Palantir
+PLTR
+	$408.16 B	$171.25	
+1.59%	
+USA
+favorite icon	25	
+Costco logo
+Costco
+COST
+	$404.71 B	$912.59	
+1.13%	
+USA
+favorite icon	26	
+Agricultural Bank of China logo
+Agricultural Bank of China
+601288.SS
+	$402.98 B	$1.15	
+1.56%	
+China
+favorite icon	227	
+ASML logo
+ASML
+ASML
+	$395.91 B	$1,020	
+1.29%	
+Netherlands
+favorite icon	128	
+AMD logo
+AMD
+AMD
+	$391.57 B	$240.52	
+2.55%	
+USA
+favorite icon	129	
+Bank of America logo
+Bank of America
+BAC
+	$381.30 B	$51.48	
+2.15%	
+USA
+favorite icon	230	
+Alibaba logo
+Alibaba
+BABA
+	$376.29 B	$157.71	
+2.54%	
+China
+favorite icon	31	
+ICBC logo
+ICBC
+1398.HK
+	$367.47 B	$0.82	
+1.69%	
+China
+favorite icon	32	
+LVMH logo
+LVMH
+MC.PA
+	$359.41 B	$723.73	
+2.04%	
+France
+favorite icon	33	
+Home Depot logo
+Home Depot
+HD
+	$356.37 B	$358.03	
+1.19%	
+USA
+favorite icon	1034	
+China Construction Bank logo
+China Construction Bank
+601939.SS
+	$346.08 B	$1.32	
+0.32%	
+China
+favorite icon	135	
+Procter & Gamble logo
+Procter & Gamble
+PG
+	$341.28 B	$145.82	
+1.25%	
+USA
+favorite icon	136	
+General Electric logo
+General Electric
+GE
+	$318.26 B	$300.13	
+1.54%	
+USA
+favorite icon	137	
+Chevron logo
+Chevron
+CVX
+	$311.93 B	$154.82	
+1.78%	
+USA
+favorite icon	138	
+Cisco logo
+Cisco
+CSCO
+	$307.47 B	$77.78	
+0.28%	
+USA
+favorite icon	139	
+Coca-Cola logo
+Coca-Cola
+KO
+	$304.18 B	$70.68	
+0.67%	
+USA
+favorite icon	240	
+Prosus logo
+Prosus
+PRX.AS
+	$302.24 B	$69.17	
+1.81%	
+Netherlands
+favorite icon	41	
+UnitedHealth logo
+UnitedHealth
+UNH
+	$290.33 B	$320.52	
+0.42%	
+USA
+favorite icon	142	
+Roche logo
+Roche
+ROG.SW
+	$290.12 B	$361.64	
+0.38%	
+Switzerland
+favorite icon	143	
+SAP logo
+SAP
+SAP
+	$278.22 B	$238.90	
+2.50%	
+Germany
+favorite icon	144	
+IBM logo
+IBM
+IBM
+	$277.77 B	$297.17	
+2.79%	
+USA
+favorite icon	245	
+AstraZeneca logo
+AstraZeneca
+AZN
+	$277.18 B	$89.40	
+0.34%	
+UK
+favorite icon	1246	
+PetroChina logo
+PetroChina
+0857.HK
+	$277.03 B	$1.13	
+0.79%	
+China
+favorite icon	147	
+Micron Technology logo
+Micron Technology
+MU
+	$271.58 B	$241.95	
+1.98%	
+USA
+favorite icon	1148	
+SK Hynix logo
+SK Hynix
+000660.KS
+	$268.36 B	$388.70	
+5.94%	
+S. Korea
+favorite icon	49	
+Wells Fargo logo
+Wells Fargo
+WFC
+	$267.23 B	$83.42	
+1.92%	
+USA
+favorite icon	1350	
+Bank of China logo
+Bank of China
+601988.SS
+	$261.83 B	$0.81	
+0.17%	
+China
+favorite icon	251	
+Kweichow Moutai logo
+Kweichow Moutai
+600519.SS
+	$259.85 B	$207.51	
+0.34%	
+China
+favorite icon	252	
+Caterpillar logo
+Caterpillar
+CAT
+	$259.63 B	$552.05	
+0.36%	
+USA
+favorite icon	553	
+Toyota logo
+Toyota
+TM
+	$259.36 B	$199.00	
+2.49%	
+Japan
+favorite icon	254	
+Nestlé logo
+Nestlé
+NESN.SW
+	$258.73 B	$100.57	
+0.55%	
+Switzerland
+favorite icon	555	
+Hermès logo
+Hermès
+RMS.PA
+	$258.38 B	$2,465	
+1.44%	
+France
+favorite icon	556	
+Morgan Stanley logo
+Morgan Stanley
+MS
+	$254.53 B	$159.45	
+2.69%	
+USA
+favorite icon	157	
+Novartis logo
+Novartis
+NVS
+	$252.41 B	$131.55	
+0.22%	
+Switzerland
+favorite icon	358	
+CATL logo
+CATL
+300750.SZ
+	$249.64 B	$54.13	
+1.48%	
+China
+favorite icon	259	
+HSBC logo
+HSBC
+HSBC
+	$244.51 B	$71.22	
+1.85%	
+UK
+favorite icon	60	
+China Mobile logo
+China Mobile
+0941.HK
+	$243.32 B	$11.12	
+0.29%	
+China
+favorite icon	161	
+T-Mobile US logo
+T-Mobile US
+TMUS
+	$242.91 B	$215.84	
+0.11%	
+USA
+favorite icon	362	
+International Holding Company logo
+International Holding Company
+IHC.AE
+	$238.65 B	$108.80	
+0.03%	
+UAE
+favorite icon	263	
+Philip Morris International logo
+Philip Morris International
+PM
+	$237.79 B	$152.76	
+1.72%	
+USA
+favorite icon	564	
+American Express logo
+American Express
+AXP
+	$237.46 B	$341.25	
+4.46%	
+USA
+favorite icon	165	
+RTX logo
+RTX
+RTX
+	$235.47 B	$175.63	
+0.03%	
+USA
+favorite icon	266	
+Goldman Sachs logo
+Goldman Sachs
+GS
+	$234.77 B	$775.56	
+1.94%	
+USA
+favorite icon	167	
+Reliance Industries logo
+Reliance Industries
+RELIANCE.NS
+	$232.46 B	$17.18	
+0.24%	
+India
+favorite icon	168	
+Merck logo
+Merck
+MRK
+	$231.94 B	$92.86	
+0.06%	
+USA
+favorite icon	269	
+Salesforce logo
+Salesforce
+CRM
+	$226.60 B	$237.03	
+2.72%	
+USA
+favorite icon	70	
+Abbott Laboratories logo
+Abbott Laboratories
+ABT
+	$226.31 B	$130.03	
+0.43%	
+USA
+favorite icon	71	
+L'Oréal logo
+L'Oréal
+OR.PA
+	$219.49 B	$411.22	
+1.24%	
+France
+favorite icon	172	
+McDonald logo
+McDonald
+MCD
+	$217.57 B	$304.90	
+0.69%	
+USA
+favorite icon	273	
+Shell logo
+Shell
+SHEL
+	$216.12 B	$75.40	
+0.48%	
+UK
+favorite icon	274	
+Novo Nordisk logo
+Novo Nordisk
+NVO
+	$215.33 B	$48.46	
+0.41%	
+Denmark
+favorite icon	175	
+Thermo Fisher Scientific logo
+Thermo Fisher Scientific
+TMO
+	$213.08 B	$567.16	
+2.00%	
+USA
+favorite icon	76	
+Royal Bank Of Canada logo
+Royal Bank Of Canada
+RY
+	$207.49 B	$147.13	
+0.39%	
+Canada
+favorite icon	77	
+Siemens logo
+Siemens
+SIE.DE
+	$202.57 B	$258.64	
+3.19%	
+Germany
+favorite icon	478	
+Pepsico logo
+Pepsico
+PEP
+	$202.39 B	$147.83	
+1.36%	
+USA
+favorite icon	79	
+Intuitive Surgical logo
+Intuitive Surgical
+ISRG
+	$195.98 B	$546.71	
+0.51%	
+USA
+favorite icon	180	
+Linde logo
+Linde
+LIN
+	$195.93 B	$417.85	
+1.31%	
+UK
+favorite icon	781	
+Uber logo
+Uber
+UBER
+	$192.08 B	$92.11	
+0.53%	
+USA
+favorite icon	482	
+Walt Disney logo
+Walt Disney
+DIS
+	$190.02 B	$105.69	
+0.10%	
+USA
+favorite icon	83	
+Airbus logo
+Airbus
+AIR.PA
+	$189.79 B	$240.43	
+0.39%	
+Netherlands
+favorite icon	784	
+HDFC Bank logo
+HDFC Bank
+HDB
+	$188.86 B	$36.84	
+1.10%	
+India
+favorite icon	85	
+Lam Research logo
+Lam Research
+LRCX
+	$185.95 B	$147.46	
+0.54%	
+USA
+favorite icon	886	
+Amgen logo
+Amgen
+AMGN
+	$184.00 B	$341.71	
+1.48%	
+USA
+favorite icon	87	
+PDD Holdings (Pinduoduo) logo
+PDD Holdings (Pinduoduo)
+PDD
+	$183.19 B	$129.04	
+1.46%	
+China
+favorite icon	188	
+AppLovin logo
+AppLovin
+APP
+	$182.40 B	$539.27	
+3.30%	
+USA
+favorite icon	889	
+Applied Materials logo
+Applied Materials
+AMAT
+	$182.20 B	$228.71	
+1.19%	
+USA
+favorite icon	1290	
+Shopify logo
+Shopify
+SHOP
+	$182.16 B	$139.93	
+4.18%	
+Canada
+favorite icon	591	
+Citigroup logo
+Citigroup
+C
+	$180.75 B	$98.19	
+2.10%	
+USA
+favorite icon	892	
+Foxconn Industrial Internet logo
+Foxconn Industrial Internet
+601138.SS
+	$180.68 B	$9.10	
+0.34%	
+China
+favorite icon	93	
+AT&T logo
+AT&T
+T
+	$180.56 B	$25.47	
+0.47%	
+USA
+favorite icon	294	
+Intuit logo
+Intuit
+INTU
+	$180.19 B	$645.98	
+2.48%	
+USA
+favorite icon	595	
+QUALCOMM logo
+QUALCOMM
+QCOM
+	$179.92 B	$166.75	
+4.16%	
+USA
+favorite icon	596	
+Nextera Energy logo
+Nextera Energy
+NEE
+	$178.58 B	$85.75	
+2.23%	
+USA
+favorite icon	297	
+Mitsubishi UFJ Financial logo
+Mitsubishi UFJ Financial
+MUFG
+	$177.34 B	$15.42	
+2.34%	
+Japan
+favorite icon	298	
+ServiceNow logo
+ServiceNow
+NOW
+	$173.97 B	$835.79	
+1.72%	
+USA
+favorite icon	199	
+Sony logo
+Sony
+SONY
+	$173.54 B	$29.09	
+3.42%	
+Japan
+favorite icon	2100	
+Verizon logo
+Verizon
+VZ
+	$172.91 B	$41.01	
+0.12%	
+USA
