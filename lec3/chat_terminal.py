@@ -1,4 +1,4 @@
-import requests, pprint, json
+import requests, json
 
 a = "sk-or-v1-7995770d42"
 b = "78c5cbb2d0ab4335adf3"
@@ -28,7 +28,7 @@ class LLM_API:
     def get_response(self):
         response_text = ""
         response = requests.post(f"{OPENROUTER_BASE_URL}/chat/completions", headers=self.headers, json=self.payload, stream=True)
-        print(self.payload)
+        # print(self.payload)
         response.raise_for_status()
         for chunk in response.iter_lines():
             if chunk:
@@ -45,11 +45,11 @@ class LLM_API:
     def start_chat(self):
         while True:
             user_input = input("You: ")
-            if user_input.lower() in ["Q", "quit", "exit"]:
+            if user_input.lower() in ["q", "quit", "exit"]:
                 break
             self.add_message("user", user_input)
             response = self.get_response()
-            print("\nAssistant: " + response)
+            # print("\nAssistant: " + response)
             self.clear_messages()
 
 
