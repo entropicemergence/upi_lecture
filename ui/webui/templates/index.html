@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="dark">
+    <title>ARA</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ARA</h1>
+            <!-- <p>Autonomous Research Intelligence</p> -->
+        </header>
+        <div id="chat-window">
+            <div id="chat-history">
+                <div class="message agent-message">
+                    <div class="avatar">ARA</div>
+                    <div class="text">Hello! How can I help you with the well data today?</div>
+                </div>
+            </div>
+            <div id="input-area">
+                <textarea id="message-input" placeholder="Ask a question, e.g., 'Give me a statistical overview of all wells in the database. How many wells by type and status?'"></textarea>
+                <button id="send-button">Send</button>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+
+
+
+
